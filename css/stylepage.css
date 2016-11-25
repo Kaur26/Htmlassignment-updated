@@ -1,0 +1,86 @@
+header {
+	position: fixed;
+	background-color: magenta;
+}
+
+.hero img {
+	margin-top: 70px;
+	width: 950px;
+	height: 300px;
+}
+
+.headings {
+	color: blue;
+	font-size: 30px;
+	font-family: sans-serif;
+	margin-top: 10px;
+	margin-left:40px;
+}
+
+li {
+	display: inline;
+}
+
+ul a {
+	text-decoration: none;
+	color:black;
+}
+
+ul a:hover {
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+.main img {
+	border: 1px solid black;
+	width: 250px;
+	height: 200px;
+	margin-top: 50px;
+	margin-left:40px;
+}
+
+.third {
+	
+	margin-top: 50px;
+	margin-left:40px;
+}
+
+
+
+body {
+	background: pink;
+}
+
+.footer {
+	margin-top: 50px;
+}
+
+h3 {
+	float: left;
+}
+
+.secondpart {
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+.firstpart img {
+	width: 550px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left:20px;
+}
+
+.footer {
+	margin-top: 20px;
+}
+
+.footer1 li {
+    display: inline;
+}
+
+.footer1 {
+	margin-top: 20px;
+}
